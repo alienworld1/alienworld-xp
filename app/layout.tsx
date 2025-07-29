@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Portfolio - Windows XP Style',
-  description: 'A nostalgic Windows XP themed portfolio',
+  title: 'alienworld XP',
+  description: 'Windows XP but to showcase my work',
 };
 
 export default function RootLayout({
